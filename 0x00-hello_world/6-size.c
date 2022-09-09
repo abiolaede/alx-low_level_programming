@@ -3,8 +3,9 @@
  * main-Entry point
  * sizeof:addresss of memory of data types
  * Description: compiled,run on and print
- * return: always 0 (sucess)
- * description: it return the size of the memory
+ * Return: Always 0 (Success)
+ *
+ * Description: compiled,run on and print
  */
 
 int main(void)
