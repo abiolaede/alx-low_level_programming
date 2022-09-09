@@ -1,14 +1,11 @@
 #include <stdio.h>
-
 /**
-* main - Entry point 
-* 
-* sizeof : to check the address in the memory of* various data type
-* 
-* Description : this program print the size of  * various data in the computer and compiled and * run on
-*
-* Return: Always 0 (Success) 
-*/
+ * main-Entry point
+ * sizeof:addresss of memory of data types
+ * Description: compiled,run on and print
+ * return: always 0 (sucess)
+ */
+
 int main(void)
 {
 char c;
@@ -22,5 +19,5 @@ printf("Size of an int: %ld byte(s)\n", sizeof(i));
 printf("Size of a long int: %ld byte(s)\n", sizeof(li));
 printf("Size of a long long int: %ld byte(s)\n", sizeof(lli));
 printf("Size of a float: %ld byte(s)\n", sizeof(f));
-return (0)
+return (0);
 }
