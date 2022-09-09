@@ -4,6 +4,7 @@
  * sizeof:addresss of memory of data types
  * Description: compiled,run on and print
  * return: always 0 (sucess)
+ * description: it return the size of the memory
  */
 
 int main(void)
