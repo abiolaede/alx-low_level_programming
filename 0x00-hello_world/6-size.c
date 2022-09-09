@@ -5,7 +5,7 @@
  * Description: compiled,run on and print
  * Return: Always 0 (Success)
  *
- * Description: compiled,run on and print
+ * description:this is a script that print the s * ize of different data types
  */
 
 int main(void)
