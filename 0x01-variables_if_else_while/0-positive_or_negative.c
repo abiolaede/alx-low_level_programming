@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-* main - print whether the number stored in the variable n is positive or negative
+* main - print the number stored in the variable n is positive or negative
 *
 * Description: using the main function
 * this program prints "Programming is positive, zero, or negative
