@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * main - program combinations of two two digit
+ *
  * Return: 0
  */
 int main(void)
@@ -23,6 +24,6 @@ int main(void)
 		putchar(' ');
 		}
 	}
-	putchar(\n);
+	putchar('\n');
 	return (0);
 }
