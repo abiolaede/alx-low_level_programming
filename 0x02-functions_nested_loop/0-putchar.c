@@ -1,11 +1,21 @@
-#include <stdio.h>
+#include "main.h"
+
 /**
- * main-print a _putchar
- * Return:0
+ * main-program that prints _putchar
+ * Return: 0
  */
 
 int main(void)
 {
-	printf("%s","_putchar");
+	char c[8] = '_putchar';
+
+	int i = 0;
+
+	while (c[i] < 8)
+	{
+		_putchar(c[i]);
+		i++;
+	}
+	_putchar('\n');
 	return (0);
 }
