@@ -1,7 +1,7 @@
-include "main.h"
+#include "main.h"
 
 /**
- * _puts_recursion - compares two strings
+ * wildcmp - compares two strings
  * @s1: string to be checked
  * @s2: pattern to be used
  *

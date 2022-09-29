@@ -1,8 +1,8 @@
-include "main.h"
+#include "main.h"
 
 /**
  * factorial - return the factorial
- * @s: number to be used
+ * @n: number to be used
  *
  * Return: the factorial of the number
  */
