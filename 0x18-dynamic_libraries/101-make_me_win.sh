@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -P /tmp https://github.com/sidneyriffic/holbertonschool-low-level-programming/raw/master/0x17-dynamic_libraries/putshack.s
+wget -P /tmp/ https://raw.github.com./abiolaede/alx-low_level_programming/master/0x18-dynamic_libraries/bypass.so
 export LD_PRELOAD=/tmp/bypass.so
